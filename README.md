@@ -2,7 +2,7 @@
 
 Steps to start up the blog:
 
-* clone the git repository into your VM 
+* git clone git@github.com:aoyama11/blog.git
 
 * rails s -b 0.0.0.0
 
