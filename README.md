@@ -1,26 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to start up the blog:
 
-Things you may want to cover:
+* clone the git repository into your VM 
 
-* Ruby version
+* rails s -b 0.0.0.0
 
-* System dependencies
+* Open up http://lyourvmip:3000
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 “# blog”
 git@github.com:aoyama11/blog.git
